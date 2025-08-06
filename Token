@@ -13,3 +13,10 @@ mod gopartner Endy
 
 POS ADRENALIN a32 endy
 7d90😀😃😀😀66a0205fc94bed20e79cc6dc5d353699de55896a5a47d411b7e67e665d71
+
+{
+  "message": "Your app is expired. Extend the validity now to continue enjoying the app thanks!",
+  "expirationDate": "2024-04-04",
+  "dateFormat": "yyyy-MM-dd",
+  "buttonLink": "https://t.me/smalicode"
+}
